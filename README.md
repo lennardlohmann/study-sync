@@ -18,5 +18,3 @@ StudySync is a web app that helps students organize their study days – solo or
 - [Zod](https://zod.dev/) – form validation
 - [Sentry](https://sentry.io/) – error logging
 - [Docker](https://www.docker.com/) – team workflows
-
-> Built with ❤️ for focused and structured study days.
