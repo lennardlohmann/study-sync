@@ -1,2 +1,2 @@
 #!/bin/sh
-npx turbo lint format:check 
+npx lint-staged 
